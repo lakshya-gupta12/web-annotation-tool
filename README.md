@@ -27,7 +27,7 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 $ npm install
 $ node server.js
-$ cd web_annotation_tool && npm install 
+$ cd web_annot_tool && npm install 
 $ npm start
 ```
 
