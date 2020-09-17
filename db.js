@@ -1,6 +1,6 @@
 const cred = {
-    db_username : "img",
-    pwd : "Lakshya1998!"
+    db_username : <DB Name>,
+    pwd : <DB Password>
 }
 module.exports = cred;
 
