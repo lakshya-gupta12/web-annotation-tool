@@ -2,7 +2,7 @@
 
 
 
-Annotate is a web based annotation tool which can be used to annotate images for DL,ML and AI datasets.
+Annotate is a web based annotation tool which can be used to annotate images for ML datasets
 
   - Images will appear on screen
   - Write Down What you see...
@@ -22,7 +22,7 @@ Annotate uses the following :
 
 Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies, start the server and the react app.
 
 ```sh
 $ npm install
@@ -32,8 +32,10 @@ $ npm start
 ```
 
 
+
 ### Todos
 
  - Improve UI
+ - More Versatile
 
 
